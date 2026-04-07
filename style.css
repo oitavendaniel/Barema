@@ -206,8 +206,8 @@ button:hover {
 }
 
 footer {
-    background: var(--clr-text);
-    color: var(--clr-bg);
+    background: #2b1a0e; 
+    color: #fdf6ee;
     padding: 40px 48px;
     text-align: center;
 }
